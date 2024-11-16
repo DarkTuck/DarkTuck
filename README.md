@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DarkTuck</h1>
-<h3 align="center">I am programmer I program games and don't get paid for it :-]</h3>
+<h3 align="center">I am programmer, games programer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darktuck&label=Profile%20views&color=0e75b6&style=flat" alt="darktuck" /> </p>
 
@@ -20,7 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/darktoock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darktoock" height="30" width="40" /></a>
-<a href="https://fb.com/nah i won't put it here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nah i won't put it here" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
