@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dm on twitter**
 
-- 🌱 I’m currently learning **C# and looking forward to lern C++**
+- 🌱 I’m currently learning **C++ for Unreal Engine and Engine it self**
 
 - 💬 Ask me about **annything**
 
